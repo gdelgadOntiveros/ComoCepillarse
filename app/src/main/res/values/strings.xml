@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Como Cepillarse</string>
+
+    <string name="titulo_principal">5tips Para Tus Dietes</string>
+
+    <string name="titulo_cepilla_tus_dientes">Cepilla Tus Dientes</string>
+
+    <string name="titulo_cepillo_suave">Cepillo Suave</string>
+
+    <string name="titulo_cepillo_45_grados">Cepillo en Angulo de 45 grados</string>
+
+    <string name="titulo_cepilla_lengua">Cepilla Tu Lengua</string>
+
+    <string name="titulo_utiliza_hilo">"Utiliza El Hilo Dental</string>
+
+
+    <string name="texto_cepilla_tus_dientes">Cepilla tus dientes al menos dos veces al día, en la mañana y en la noche. Recuerda que cepillar los dientes antes de ir a la cama es una de las acciones más importantes para gozar de una vida saludable. Si lo haces todas las noches evitarás padecer muchas infecciones y problemas de salud.</string>
+
+    <string name="texto_cepillo_suave">Utiliza un cepillo dental suave, que de preferencia tenga una forma redondeada en las puntas de las cerdas y que la cabeza sea lo suficientemente pequeña como para alcanzar todas las zonas de los dientes y boca. Reemplaza tu cepillo cada 3 o 4 meses.</string>
+
+    <string name="texto_cepillo_45_grados">Coloca el cepillo en un ángulo de 45 grados, exactamente donde los dientes se encuentran con las encías. Ejerce presión con firmeza y gentilmente mueve el cepillo de arriba a abajo realizando movimientos circulares. No frotes mucho. Un cepillado con mucha fuerza puede separar las encías de los dientes y esto podría rayar su esmalte.</string>
+
+    <string name="texto_cepilla_lengua">Cepilla toda la superficie de los dientes, lengua y mejillas. Pon especial atención al frente de los dientes y a toda la superficie de las muelas. Cepilla muy bien tu lengua de atrás para adelante. Algunas personas agregan un poco de pasta de dientes sobre el cepillo para hacerlo. Cepillar la lengua ayuda a prevenir la placa bacteriana que es la causante del mal aliento. Algunos cepillos ya tienen cerdas o material específico para usarse sobre esta zona.</string>
+
+    <string name="texto_utiliza_hilo">Utiliza hilo dental al menos una vez al día. El tipo de marca que elijas no es muy significativo. Escoge una marca y un sabor que sean de tu agrado.  Existen muchas técnicas para hacer un buen uso de hilo dental. Una de las más fáciles consiste en cortar un pedazo de hilo de aproximadamente 30 cm y hacerle un nudo al final uniendo los dos extremos para formar un círculo. Esto te será de ayuda al momento de pasar el hilo entre los dientes y evitar que te lastimes las encías tratando de alcanzar los lugares más lejanos. Con mucho cuidado utiliza el hilo dental entre los dientes hacia las encías. Procura doblar el hilo entre cada diente formando la forma U y deslízalo de acuerdo a la forma de tus encías de arriba a abajo para remover la placa formada. Si tus encías sangran un poco al hacerlo, la sangre ira desapareciendo con el tiempo cuando tus encías sean más saludables.</string>
+
+    <string name="boton">Volver</string>
+</resources>
